@@ -106,4 +106,5 @@ expect()->extend('toHavePagination', function () {
             'to',
             'total',
         ],
-    ]);});
+    ]);
+});
